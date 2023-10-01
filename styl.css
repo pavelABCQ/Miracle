@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Oswald:wght@200;300&family=Raleway:wght@100&family=Young+Serif&display=swap');
 body {
     background: url(phone.jpg);
-    height: 2500px;
-    weight: 1495px;
+    background-size: auto;
 
 }
 img {
