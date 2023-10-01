@@ -32,6 +32,8 @@ img {
 }
 .cont-ws {
     text-align:left;
+    position: fixed;
+    
 }
 
 .btn-cont {
@@ -46,7 +48,6 @@ img {
     font-style:bold;
     font-family:"Roboto Slab", sans-serif;
     scroll-behavior:initial;
-    position: fixed;
     letter-spacing: 0px;
 
 }
